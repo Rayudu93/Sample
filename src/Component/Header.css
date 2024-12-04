@@ -1,0 +1,19 @@
+.header{
+    display: flex;
+}
+.header ul{
+    list-style-type: none;
+    display: flex;
+    margin-left: 200px;
+
+}
+.header li{
+    margin-left: 50px;
+}
+.header input{
+    padding: 10px;
+    border-radius: 10px;
+    width: 300px;
+    height: 10px;
+    margin: 20px 0 0 100px;
+    }
